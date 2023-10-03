@@ -1,3 +1,5 @@
+************ WORK IN PROGRES *************
+
 PI WEATHER SERVER BY JAMES CARMICHAEL
 
 This project uses a Raspberry PI 3 B+ to create a server that will get API
