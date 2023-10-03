@@ -1,0 +1,13 @@
+PI WEATHER SERVER BY JAMES CARMICHAEL
+
+This project uses a Raspberry PI 3 B+ to create a server that will get API
+info from WeatherAPI.com and show you the weather forecast in your area.
+
+The server will passively wait for a socket connection from a client.
+The client will connect to the server and request the weather forecast.
+The server will get weather forecast information from the API and return
+the results to the client and proceed to end the connection.
+
+This project makes use of:
+ - Server-client architecture using IPv4 sockets
+ - REST API functionality
