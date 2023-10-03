@@ -12,5 +12,5 @@ The server will get weather information from the API and return
 the results to the client and proceed to end the connection.
 
 This project makes use of:
- - Server-client architecture using IPv4 sockets
+ - Server-client network architecture using IPv4 sockets
  - API requests
